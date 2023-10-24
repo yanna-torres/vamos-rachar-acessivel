@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Vamosrachar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.Vamosrachar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#5EAC24</item>
         <item name="colorPrimaryVariant">#8FBD6E</item>
@@ -17,7 +17,7 @@
     </style>
 
     <style name="TITLE">
-        <item name="android:textColor">@color/main_green</item>
+        <item name="android:textColor">#378500</item>
         <item name="android:textSize">32sp</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textAlignment">center</item>
